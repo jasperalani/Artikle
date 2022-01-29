@@ -1,0 +1,205 @@
+<resources>
+    <string name="app_name">Artikle</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TextPage Strings -->
+    <string name="termsncons">Terms &amp; Conditions</string>
+    <string name="privacypol">Privacy Policy</string>
+    <string name="about">About</string>
+    <string name="useragreement">User Agreement</string>
+    <string name="contact">Contact</string>
+
+    <string name="termsnconsText">Last updated: 29/06/2017
+Please read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the Artikle mobile application the (“Service”) operated by AMES (“us”).
+Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
+ By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.
+Content
+Our Service allows you to view, favourite, share and otherwise make available certain information, text, graphics, images, or other material (“Content”).
+Links To Other Websites
+Our Service may contain links to third-party website or services that are not owned or controll by Artikle.
+Artikle has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites or services. You further acknowledge and agree that Artikle shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+Changes
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+</string>
+    <string name="privacypolText">Last updated: 29/06/2017
+        This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the mobile application.
+        We use your Personal Information only for providing and improving the mobile application. By using the mobile application, you agree to the collection and use of information in accordance with this policy.
+        Information Collection and Use
+        While using our mobile application, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name or “Personal Information”).
+
+        Links To Other Web Sites
+        Our Service may contain links to third-party web sites or services that are not owned or controlled by Artikle.
+        Artikle has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Artikle shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+        Changes
+        We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+</string>
+    <string name="aboutText">The story of our application came from a realisation that millennials are reading less and don’t
+have the motivation to read as a hobby or for knowledge apart for when they have to read
+something important. These days many people are preoccupied with other things that reading
+novels or articles becomes a hassle. Our aim for the application that we are creating is to get
+not only millennials but everyone to start reading. Instead of creating long and boring articles
+with clickbait titles we have decided to make a reading application that draws out different
+stories and articles cutting it down for a short 5 - 10 minute read so that people are able to read
+something interesting even when their time is limited.
+The Logo resembles a picture of book, other than the representation of reading it also at the same time foreshadows our core purpose of improving the public’s intelligence and creating a better society in people through the discipline of reading. Team at United Wifi feels the logo once seen shows that we have lost something of great value however try our best to bring it back for the good of people.
+</string>
+    <string name="useragreementText">You agree that by clicking “Join Now”, “Join Artikle”, “Sign Up” or similar, registering, accessing or using our services (described below), you are agreeing to enter into a legally binding contract with Artikle (even if you are using our Services on behalf of a company). If you do not agree to this contract (“Contract” or “User Agreement”), do not click “Join Now” (or similar) and do not access or otherwise use any of our Services.
+When you register and join the Artikle Service, you become a Member. If you have chosen not to register for our Services, you may access certain features as a visitor.
+We may modify this Contract, our Privacy Policy and our Cookies Policies from time to time. If we make material changes to it, we will provide you notice through our Services, or by other means, to provide you the opportunity to review the changes before they become effective. If you object to any changes, you may close your account. Your continued use of our Services after we publish or send a notice about our changes to these terms means that you are consenting to the updated terms.
+The Services are not for use by anyone under the age of 13.
+To use the Services, you agree that: (1) you must be the “Minimum Age” (described below) or older; (2) you will only have one Artikle account (and/or one SlideShare account, if applicable), which must be in your real name; and (3) you are not already restricted by Artikle from using the Services.
+Members who were below this new Minimum Age when they started using the Services under a previous User Agreement may continue to use them, as they have already reached the new Minimum Age since then or will reach it in the near future.
+“Minimum Age” means 13 years old. However, if law requires that you must be older in order for Artikle to lawfully provide the Services to you without parental consent (including using of your personal data) then the Minimum Age is such older age.
+Members are account holders. You agree to: (1) try to choose a strong and secure password; (2) keep your password secure and confidential; (3) not transfer any part of your account (e.g., connections) and (4) follow the law and our list of Dos and Don’ts. You are responsible for anything that happens through your account unless you close it or report misuse.</string>
+
+    <string name="contactText"></string>
+
+    <!-- Navbar Strings -->
+    <string name="menu">Menu</string>
+    <string name="home">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="search">Search</string>
+
+    <!-- Landing Screen Activity Strings -->
+    <string name="title">Welcome to Artikle</string>
+    <string name="subtitle">"Enjoy short reads? Start\ntoday for free"</string>
+    <string name="buttonText">Start reading</string>
+
+    <!-- Menu Activity Strings -->
+    <string name="menuTitle">Options menu</string>
+
+    <string-array name="menuOptions">
+        <item>About</item>
+        <item>Contact</item>
+        <item>Favourites</item>
+        <item>Search</item>
+        <item>User Agreement</item>
+        <item>Terms &amp; Conditions</item>
+        <item>Privacy Policy</item>
+    </string-array>
+
+    <!-- MainActivity Strings -->
+    <string name="popularArticles">Popular articles</string>
+    <string name="loadMore">Load more</string>
+
+    <string-array name="listViewArticlesTitles">
+        <item>Barry Soper: In politics anything is possible8</item>
+        <item>Dulce de leche and chocolate peanut butter puddings (serves 6)9</item>
+        <item>The Worst Advice for Entrepreneurs5</item>
+        <item>Even China Can\'t Kill Bitcoin6</item>
+        <item>10 Tips For Travelling Alone That Will Transform Your Travels7</item>
+        <item>WHICH STYLE OF YOGA IS RIGHT FOR YOU?8</item>
+        <item>The World\’s Best Hostels6</item>
+        <item>Shake-up of teacher training to smooth primary to secondary transition: Education Council8</item>
+        <item>Nabisco Is Dropping Jelly Donut Oreos for National Doughnut Day9</item>
+        <item>Man who was fixated on \'beautiful, perfect\' prostitute recruited teen to set her on fire5</item>
+        <item>Open University jobs at risk in £100m \'root and branch\' overhaul1</item>
+        <item>Louise Thompson: How to always look on the bright side8</item>
+        <item>Surprise NZ genetics discovery could be key in battle against drug resistance3</item>
+        <item>F1 owners say UK paywall TV deal they have inherited is detrimental to sport2</item>
+        <item>I\’m an A&amp;E doctor who has worked in war zones. I know the toll of these recent attacks3</item>
+        <item>England Under-21s prepare to put lid on Polish passions and reach semis2</item>
+        <item>Sergey Kovalev\’s promoters to file protest over defeat by Andre Ward2</item>
+        <item>COOK PORK ROASTED PORK KNUCKLE STEAMED BUNS W/ DAIKON KIMCHI9</item>
+        <item>Student loans are deeply unfair1</item>
+        <item>6 words to watch during a debt crisis6</item>
+        <item>\‘I\’m teaching – and I\’m cheating\’: confessions of a primary Sats teacher1</item>
+        <item>Kieran Read back but All Blacks add twist with Rieko Ioane and Ryan Crotty2</item>
+        <item>US man sues hospital after doctors removed wrong testicle during surgery3</item>
+        <item>The New York Times\' Reveals Its Top Destinations for 20177</item>
+        <item>COOK SWEET STUFF APPLE PIE W/ LEMON CURD CREAM9</item>
+        <item>In a show of global leadership, Germany strikes back against the faddish epidemic8</item>
+        <item>Esports: The sport of choice for millennials4</item>
+        <item>This Room in Singapore Invites Guests to Break Random Stuff for Just $38 USD7</item>
+        <item>Get the idea: Cooking with wine9</item>
+        <item>Calls for toxic chemicals used in soap and toothpaste to be banned3</item>
+        <item>Three Chinese Navy ships are docked in Auckland as part of a goodwill visit8</item>
+        <item>British &amp; Irish Lions have gone for a side to keep the All Blacks guessing2</item>
+        <item>Lions fan looking to reunite lost wallet with owner 12 years on5</item>
+        <item>May cause drowsiness: how to make sense of drug instructions3</item>
+        <item>Belgium on alert after latest blast5</item>
+        <item>Exam watchdog Ofqual to check \'extra help\' data1</item>
+        <item>Here\'s the Clever Way Flight Attendants Deal With Smelly Bathrooms on Planes7</item>
+        <item>Most Americans Still Like Both George W. Bush and Barack Obama, Poll Says8</item>
+        <item>Warren Gatland opts for form not reputation in first Test against All Blacks2</item>
+        <item>The Powerful Benefits Of Turmeric (Plus, Tea Recipe)9</item>
+        <item>Teachers could be trained at both primary and secondary levels1</item>
+        <item>Overwatch preview: can Blizzard take eSports to console gamers?4</item>
+        <item>Full time school a no go for student with rare syndrome8</item>
+        <item>FBI looking at terrorism in Flint airport stabbing5</item>
+        <item>New Zealand\’s North Island: on the road at the edge of the world6</item>
+        <item>Could autism be helped by changing a patient\'s diet?3</item>
+        <item>Rules to making your home look better7</item>
+        <item>Teen gang prospect\'s grim world: Living in a tent5</item>
+        <item>Trump briefly meets Ukrainian leader amid Russia probe5</item>
+        <item>Dodging school on rise, with more kids on holiday during term1</item>
+        <item>Professional gaming gets its first players association with WESA4</item>
+        <item>Green Party calls for refugee intake increase to 50008</item>
+        <item>Adelaide Crows buy Legacy video gaming team in an Australian first3</item>
+        <item>Roger Stone Wants President Trump to Legalize Marijuana8</item>
+        <item>Visit to dentist over \'abscess\' ends with rare flesh-eating cancer3</item>
+        <item>North Korea could co-host 2018 Winter Olympics2</item>
+        <item>New Zealand high school eSports to broadcast live for first time4</item>
+        <item>Everest Base Camp: Chasing a breathtaking view7</item>
+        <item>SKT repeats as MSI Champion after dominant run4</item>
+        <item>Britain\'s strictest school gets top marks from Ofsted1</item>
+        <item>Seven in 10 Brits support \'world government\' to protect humanity from global catastrophes8</item>
+        <item>Can Activision Blizzard create the ESPN of eSports? Gamers are skeptical4</item>
+        <item>Former UFC fighter Tim Hague dies aged 34 after knockout in boxing fight2</item>
+        <item>10 things to do with lemons9</item>
+        <item>ACC is not broken: The legal fiction at the heart of the problem8</item>
+        <item>Parents\' heartbreak as one-year-old is diagnosed with Alzheimer\'s3</item>
+        <item>Know your spices9</item>
+        <item>Will automation take away all our jobs?6</item>
+        <item>What motivates us at work? More than money6</item>
+        <item>Colette Is Now Selling a $60 USD Fidget Spinner8</item>
+        <item>Anti-doping in eSports: World\'s largest gaming organization will test for PEDs4</item>
+        <item>eSports to be a medal event at 2022 Asian Games4</item>
+        <item>Cheshire cancer patients \'could die sooner\' if NHS cuts are forced through3</item>
+        <item>Deborah Hill Cone: Puzzling politics of preferential treatment1</item>
+        <item>Jonny Bairstow and Alex Hales send England cruising past South Africa2</item>
+        <item>Team GB athletes unlikely to receive reallocated medals this summer2</item>
+        <item>10 Foods that are actually making you fat9</item>
+        <item>Queen\'s speech to Parliament makes no reference to state visit from Donald Trump4</item>
+        <item>NZX 50 stockmarket sets record high, finally6</item>
+        <item>10 things to do with lemons9</item>
+        <item>Transforming digital assessment1</item>
+        <item>FIVE WAYS TO GET GOING IN THE MORNING8</item>
+        <item>Abortion rate drops to lowest in 25 years3</item>
+        <item>Is it time for eSports gamers to be recognised as athletes?4</item>
+        <item>ACC is not broken: The legal fiction at the heart of the problem8</item>
+        <item>Daughter \'tortured in public exorcism\'5</item>
+        <item>5 life-changing lessons the KonMari decluttering method taught me7</item>
+        <item>Schoolchildren are more alert and have quicker reaction times in the afternoon1</item>
+        <item>Best places to go in europe for 20176</item>
+        <item>Why the Cheap Will Never Get Rich5</item>
+        <item>6 Delivery Services We Are Loving Right Now (NZ)8</item>
+        <item>So Should I Take Supplements (June Film Club)9</item>
+        <item>The genius of frugal innovation6</item>
+        <item>Dad, daughter William Jelly and Natalie Bollen killed neighbour Kelly Machin over popped footy5</item>
+        <item>Here\'s What All Those In-Flight \'Dings\' Really Mean7</item>
+        <item>Voyagers Complete 3-year Trip Around the World in a Polynesian Canoe With No Modern Technology7</item>
+        <item>Top Tips To Switch Careers From The Founders Of The Muse6</item>
+        <item>How our brain decides on brands7</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>Education</item> // 1
+        <item>Sports</item> // 2
+        <item>Health</item> // 3
+        <item>Gaming</item> // 4
+        <item>News</item> // 5
+        <item>Finance</item> // 6
+        <item>Travel</item> // 7
+        <item>Politics</item> // 8
+        <item>Food</item> // 9
+    </string-array>
+
+    <!-- Favourites Activity Strings -->
+    <string name="favouritesTitle">Favourites</string>
+
+    <!-- Search Activity Strings -->
+    <string name="searchTitle">Search</string>
+
+</resources>
